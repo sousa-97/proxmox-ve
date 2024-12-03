@@ -13,3 +13,9 @@
 ![](https://github.com/user-attachments/assets/41ee8f9c-3d77-44c7-810c-f01e73acfeed)
 Opções de formatos e RAID's.
 ![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074537.png?raw=true)
+6. Selecionaremos a região e definiremos senha e email para notificações.
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074703.png?raw=true)
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074713.png?raw=true)
+7. Após, iremos configurar a rede. Selecionaremos a placa de rede principal que será responsável pelo acesso ao gerenciamento e também pode ser usado para Vms.
+O hostname não precisa ser muito elaborado em caso de poucos servidores, mas criar nomenclaturas que façam sentido é uma boa prática e facilita o gerenciamento. Eu costumo iniciar com "pmx"
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074721.png?raw=true)
