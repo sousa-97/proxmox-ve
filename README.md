@@ -7,3 +7,9 @@
 2. Após o download, iremos passar a iso para um pendrive, utilizando o rufus ou no caso de utilizar algum multiboot no pendrive basta copiar a iso para ele. (Em caso de servidor com gerenciador ILO/iDrac é possivel enviar a iso via rede também).
 3. Depois do pendrive pronto ou a iso enviada para o servidor, devemos selecionar como inicialização.
 4. A partir daqui, temos a tela do instalador já carregada.
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20073657.png?raw=true)
+5. Agora iremos selecionar as configurações de disco e opções de RAID caso necessário.
+### Dica - Eu normalmente utilizo btrfs para raids, o zfs permite replicação porém consome metade da Ram disponível e dependendo do hardware pode ser um problema! Em caso de um único disco, xfs pois trabalha melhor com grandes arquivos.
+![](https://github.com/user-attachments/assets/41ee8f9c-3d77-44c7-810c-f01e73acfeed)
+Opções de formatos e RAID's.
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074537.png?raw=true)
