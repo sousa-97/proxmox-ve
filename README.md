@@ -23,3 +23,4 @@ O hostname não precisa ser muito elaborado em caso de poucos servidores, mas cr
 ![](![image](https://github.com/user-attachments/assets/076d79b3-2a40-477d-afed-08af80ebf52d)
 9. Andamento da instalação
 ![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074754.png?raw=true)
+10. Depois da instalação finalizada podemos acessar a interface de gerenciamento pelo navegador web utilizando o IP definido anteriormente seguido da porta 8006 dessa forma: 192.168.2.137:8006 .
