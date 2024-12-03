@@ -19,3 +19,7 @@ Opções de formatos e RAID's.
 7. Após, iremos configurar a rede. Selecionaremos a placa de rede principal que será responsável pelo acesso ao gerenciamento e também pode ser usado para Vms.
 O hostname não precisa ser muito elaborado em caso de poucos servidores, mas criar nomenclaturas que façam sentido é uma boa prática e facilita o gerenciamento. Eu costumo iniciar com "pve" como sugere ou "pmx" e crio sequências, se terei mais de um servidor em cluster crio "pve1", "pve2", "pve3". Esse primerio nome antes do "." irá definir o nome no gerenciador.
 ![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074721.png?raw=true)
+8. Resumo de instalação.
+![](![image](https://github.com/user-attachments/assets/076d79b3-2a40-477d-afed-08af80ebf52d)
+9. Andamento da instalação
+![](https://github.com/sousa-97/proxmox-ve/blob/main/Captura%20de%20tela%202024-12-02%20074754.png?raw=true)
